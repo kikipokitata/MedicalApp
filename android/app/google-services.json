@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "34230226310",
+    "firebase_url": "https://medical-app-9cfaf-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "medical-app-9cfaf",
+    "storage_bucket": "medical-app-9cfaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34230226310:android:000f9208800f84aa707007",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKZ4zX_o2R-1gCC7ZWgKNg80Ub_XaE9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34230226310:android:1331825e29a9e3f6707007",
+        "android_client_info": {
+          "package_name": "com.medapp.medical_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKZ4zX_o2R-1gCC7ZWgKNg80Ub_XaE9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
